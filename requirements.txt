@@ -1,11 +1,11 @@
-aiohttp==3.6.2
+aiohttp==3.9.4
 aiosqlite==0.10.0
 async-timeout==3.0.1
 attrs==19.3.0
 chardet==3.0.4
 dblpy==0.3.4
 discord.py==1.5.1
-idna==2.8
+idna==3.7
 idna-ssl==1.1.0
 multidict==4.5.2
 psutil==5.6.3
